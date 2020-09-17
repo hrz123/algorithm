@@ -150,6 +150,33 @@ algorithm/fast:
 	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/685._冗余连接_II.cpp.s
 .PHONY : 685._冗余连接_II.cpp.s
 
+796._旋转字符串.o: 796._旋转字符串.cpp.o
+
+.PHONY : 796._旋转字符串.o
+
+# target to build an object file
+796._旋转字符串.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/796._旋转字符串.cpp.o
+.PHONY : 796._旋转字符串.cpp.o
+
+796._旋转字符串.i: 796._旋转字符串.cpp.i
+
+.PHONY : 796._旋转字符串.i
+
+# target to preprocess a source file
+796._旋转字符串.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/796._旋转字符串.cpp.i
+.PHONY : 796._旋转字符串.cpp.i
+
+796._旋转字符串.s: 796._旋转字符串.cpp.s
+
+.PHONY : 796._旋转字符串.s
+
+# target to generate assembly for a file
+796._旋转字符串.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/796._旋转字符串.cpp.s
+.PHONY : 796._旋转字符串.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... 685._冗余连接_II.o"
 	@echo "... 685._冗余连接_II.i"
 	@echo "... 685._冗余连接_II.s"
+	@echo "... 796._旋转字符串.o"
+	@echo "... 796._旋转字符串.i"
+	@echo "... 796._旋转字符串.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
