@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/apple/Developer/algorithm/685. 冗余连接 II.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/685._冗余连接_II.cpp.o"
   "/Users/apple/Developer/algorithm/796. 旋转字符串.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/796._旋转字符串.cpp.o"
+  "/Users/apple/Developer/algorithm/808. 分汤.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/808._分汤.cpp.o"
   "/Users/apple/Developer/algorithm/main.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

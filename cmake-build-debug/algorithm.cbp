@@ -86,6 +86,9 @@
 		<Unit filename="/Users/apple/Developer/algorithm/796. 旋转字符串.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/808. 分汤.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/main.cpp">
 			<Option target="algorithm"/>
 		</Unit>

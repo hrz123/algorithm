@@ -177,6 +177,33 @@ algorithm/fast:
 	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/796._旋转字符串.cpp.s
 .PHONY : 796._旋转字符串.cpp.s
 
+808._分汤.o: 808._分汤.cpp.o
+
+.PHONY : 808._分汤.o
+
+# target to build an object file
+808._分汤.cpp.o:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/808._分汤.cpp.o
+.PHONY : 808._分汤.cpp.o
+
+808._分汤.i: 808._分汤.cpp.i
+
+.PHONY : 808._分汤.i
+
+# target to preprocess a source file
+808._分汤.cpp.i:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/808._分汤.cpp.i
+.PHONY : 808._分汤.cpp.i
+
+808._分汤.s: 808._分汤.cpp.s
+
+.PHONY : 808._分汤.s
+
+# target to generate assembly for a file
+808._分汤.cpp.s:
+	$(MAKE) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/808._分汤.cpp.s
+.PHONY : 808._分汤.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -219,6 +246,9 @@ help:
 	@echo "... 796._旋转字符串.o"
 	@echo "... 796._旋转字符串.i"
 	@echo "... 796._旋转字符串.s"
+	@echo "... 808._分汤.o"
+	@echo "... 808._分汤.i"
+	@echo "... 808._分汤.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
