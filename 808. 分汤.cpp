@@ -1,6 +1,10 @@
 //
 // Created by Ruizhe Hou on 2020/9/17.
 //
+#include <math.h>
+#include <vector>
+
+using namespace std;
 
 class Solution {
 public:
@@ -10,7 +14,7 @@ public:
         }
         int myN = (int) ceil(N / 25.0);//缩小为原来的25分之一
         //dp[i][j]表示:当给定i毫升的A和j毫升的B，汤A先分配完的概率 + 汤A和汤B同时分配完的概率 / 2
-        vector <vector<double>> dp(myN + 1, vector<double>(myN + 1, 0));
+        vector<vector<double>> dp(myN + 1, vector<double>(myN + 1, 0));
         dp[0][0] = 0.5;//特殊情况，0毫升A、0毫升B（同时分配完 1 * 0.5）
         for (int i = 1; i < myN + 1; ++i) {
             dp[i][0] = 0;//i毫升A，0毫升B，则B必定先分配完，不可能出现A先分配完或者A、B同时分配完

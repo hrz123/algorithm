@@ -89,6 +89,12 @@
 		<Unit filename="/Users/apple/Developer/algorithm/808. 分汤.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/851. 喧闹和富有.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/UVa221.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/main.cpp">
 			<Option target="algorithm"/>
 		</Unit>

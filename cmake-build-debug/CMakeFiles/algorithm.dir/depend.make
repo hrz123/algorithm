@@ -3,5 +3,11 @@
 
 CMakeFiles/algorithm.dir/685._冗余连接_II.cpp.o: ../685.\ 冗余连接\ II.cpp
 
+CMakeFiles/algorithm.dir/796._旋转字符串.cpp.o: ../796.\ 旋转字符串.cpp
+
+CMakeFiles/algorithm.dir/808._分汤.cpp.o: ../808.\ 分汤.cpp
+
+CMakeFiles/algorithm.dir/UVa221.cpp.o: ../UVa221.cpp
+
 CMakeFiles/algorithm.dir/main.cpp.o: ../main.cpp
 
