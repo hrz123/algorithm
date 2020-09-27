@@ -170,6 +170,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/113._路径总和_II.cpp.s
 .PHONY : 113._路径总和_II.cpp.s
 
+5526._最多可达成的换楼请求数目.o: 5526._最多可达成的换楼请求数目.cpp.o
+
+.PHONY : 5526._最多可达成的换楼请求数目.o
+
+# target to build an object file
+5526._最多可达成的换楼请求数目.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o
+.PHONY : 5526._最多可达成的换楼请求数目.cpp.o
+
+5526._最多可达成的换楼请求数目.i: 5526._最多可达成的换楼请求数目.cpp.i
+
+.PHONY : 5526._最多可达成的换楼请求数目.i
+
+# target to preprocess a source file
+5526._最多可达成的换楼请求数目.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.i
+.PHONY : 5526._最多可达成的换楼请求数目.cpp.i
+
+5526._最多可达成的换楼请求数目.s: 5526._最多可达成的换楼请求数目.cpp.s
+
+.PHONY : 5526._最多可达成的换楼请求数目.s
+
+# target to generate assembly for a file
+5526._最多可达成的换楼请求数目.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.s
+.PHONY : 5526._最多可达成的换楼请求数目.cpp.s
+
 685._冗余连接_II.o: 685._冗余连接_II.cpp.o
 
 .PHONY : 685._冗余连接_II.o
@@ -278,6 +305,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/851._喧闹和富有.cpp.s
 .PHONY : 851._喧闹和富有.cpp.s
 
+Solution.o: Solution.cpp.o
+
+.PHONY : Solution.o
+
+# target to build an object file
+Solution.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/Solution.cpp.o
+.PHONY : Solution.cpp.o
+
+Solution.i: Solution.cpp.i
+
+.PHONY : Solution.i
+
+# target to preprocess a source file
+Solution.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/Solution.cpp.i
+.PHONY : Solution.cpp.i
+
+Solution.s: Solution.cpp.s
+
+.PHONY : Solution.s
+
+# target to generate assembly for a file
+Solution.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/Solution.cpp.s
+.PHONY : Solution.cpp.s
+
 UVa221.o: UVa221.cpp.o
 
 .PHONY : UVa221.o
@@ -344,6 +398,9 @@ help:
 	@echo "... 113._路径总和_II.o"
 	@echo "... 113._路径总和_II.i"
 	@echo "... 113._路径总和_II.s"
+	@echo "... 5526._最多可达成的换楼请求数目.o"
+	@echo "... 5526._最多可达成的换楼请求数目.i"
+	@echo "... 5526._最多可达成的换楼请求数目.s"
 	@echo "... 685._冗余连接_II.o"
 	@echo "... 685._冗余连接_II.i"
 	@echo "... 685._冗余连接_II.s"
@@ -356,6 +413,9 @@ help:
 	@echo "... 851._喧闹和富有.o"
 	@echo "... 851._喧闹和富有.i"
 	@echo "... 851._喧闹和富有.s"
+	@echo "... Solution.o"
+	@echo "... Solution.i"
+	@echo "... Solution.s"
 	@echo "... UVa221.o"
 	@echo "... UVa221.i"
 	@echo "... UVa221.s"

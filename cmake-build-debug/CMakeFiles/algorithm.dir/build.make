@@ -168,6 +168,32 @@ CMakeFiles/algorithm.dir/113._路径总和_II.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/113._路径总和_II.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/113. 路径总和 II.cpp" -o CMakeFiles/algorithm.dir/113._路径总和_II.cpp.s
 
+CMakeFiles/algorithm.dir/Solution.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/Solution.cpp.o: ../Solution.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/algorithm.dir/Solution.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/Solution.cpp.o -c /Users/apple/Developer/algorithm/Solution.cpp
+
+CMakeFiles/algorithm.dir/Solution.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/Solution.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/apple/Developer/algorithm/Solution.cpp > CMakeFiles/algorithm.dir/Solution.cpp.i
+
+CMakeFiles/algorithm.dir/Solution.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/Solution.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/apple/Developer/algorithm/Solution.cpp -o CMakeFiles/algorithm.dir/Solution.cpp.s
+
+CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o: ../5526.\ 最多可达成的换楼请求数目.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o -c "/Users/apple/Developer/algorithm/5526. 最多可达成的换楼请求数目.cpp"
+
+CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/5526. 最多可达成的换楼请求数目.cpp" > CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.i
+
+CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/5526. 最多可达成的换楼请求数目.cpp" -o CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.s
+
 # Object files for target algorithm
 algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/main.cpp.o" \
@@ -176,7 +202,9 @@ algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/808._分汤.cpp.o" \
 "CMakeFiles/algorithm.dir/UVa221.cpp.o" \
 "CMakeFiles/algorithm.dir/851._喧闹和富有.cpp.o" \
-"CMakeFiles/algorithm.dir/113._路径总和_II.cpp.o"
+"CMakeFiles/algorithm.dir/113._路径总和_II.cpp.o" \
+"CMakeFiles/algorithm.dir/Solution.cpp.o" \
+"CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
@@ -188,9 +216,11 @@ algorithm: CMakeFiles/algorithm.dir/808._分汤.cpp.o
 algorithm: CMakeFiles/algorithm.dir/UVa221.cpp.o
 algorithm: CMakeFiles/algorithm.dir/851._喧闹和富有.cpp.o
 algorithm: CMakeFiles/algorithm.dir/113._路径总和_II.cpp.o
+algorithm: CMakeFiles/algorithm.dir/Solution.cpp.o
+algorithm: CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable algorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
