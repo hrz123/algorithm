@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/apple/Developer/algorithm/Solution.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/Solution.cpp.o"
   "/Users/apple/Developer/algorithm/UVa221.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/UVa221.cpp.o"
   "/Users/apple/Developer/algorithm/main.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/main.cpp.o"
+  "/Users/apple/Developer/algorithm/山谷序列.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/山谷序列.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

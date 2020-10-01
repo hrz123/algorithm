@@ -386,6 +386,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+山谷序列.o: 山谷序列.cpp.o
+
+.PHONY : 山谷序列.o
+
+# target to build an object file
+山谷序列.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/山谷序列.cpp.o
+.PHONY : 山谷序列.cpp.o
+
+山谷序列.i: 山谷序列.cpp.i
+
+.PHONY : 山谷序列.i
+
+# target to preprocess a source file
+山谷序列.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/山谷序列.cpp.i
+.PHONY : 山谷序列.cpp.i
+
+山谷序列.s: 山谷序列.cpp.s
+
+.PHONY : 山谷序列.s
+
+# target to generate assembly for a file
+山谷序列.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/山谷序列.cpp.s
+.PHONY : 山谷序列.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -422,6 +449,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... 山谷序列.o"
+	@echo "... 山谷序列.i"
+	@echo "... 山谷序列.s"
 .PHONY : help
 
 

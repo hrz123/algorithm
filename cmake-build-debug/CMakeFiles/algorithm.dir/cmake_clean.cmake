@@ -8,6 +8,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm.dir/Solution.cpp.o"
   "CMakeFiles/algorithm.dir/UVa221.cpp.o"
   "CMakeFiles/algorithm.dir/main.cpp.o"
+  "CMakeFiles/algorithm.dir/山谷序列.cpp.o"
   "algorithm"
   "algorithm.pdb"
 )
