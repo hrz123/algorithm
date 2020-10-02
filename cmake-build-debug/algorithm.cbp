@@ -83,10 +83,16 @@
 		<Unit filename="/Users/apple/Developer/algorithm/113. 路径总和 II.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/5526. 最多可达成的换楼请求数目.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/685. 冗余连接 II.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/771. 宝石与石头.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/796. 旋转字符串.cpp">

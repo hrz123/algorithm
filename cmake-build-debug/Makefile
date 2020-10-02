@@ -170,6 +170,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/113._路径总和_II.cpp.s
 .PHONY : 113._路径总和_II.cpp.s
 
+1528._重新排列字符串.o: 1528._重新排列字符串.cpp.o
+
+.PHONY : 1528._重新排列字符串.o
+
+# target to build an object file
+1528._重新排列字符串.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o
+.PHONY : 1528._重新排列字符串.cpp.o
+
+1528._重新排列字符串.i: 1528._重新排列字符串.cpp.i
+
+.PHONY : 1528._重新排列字符串.i
+
+# target to preprocess a source file
+1528._重新排列字符串.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.i
+.PHONY : 1528._重新排列字符串.cpp.i
+
+1528._重新排列字符串.s: 1528._重新排列字符串.cpp.s
+
+.PHONY : 1528._重新排列字符串.s
+
+# target to generate assembly for a file
+1528._重新排列字符串.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.s
+.PHONY : 1528._重新排列字符串.cpp.s
+
 5526._最多可达成的换楼请求数目.o: 5526._最多可达成的换楼请求数目.cpp.o
 
 .PHONY : 5526._最多可达成的换楼请求数目.o
@@ -223,6 +250,33 @@ algorithm/fast:
 685._冗余连接_II.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/685._冗余连接_II.cpp.s
 .PHONY : 685._冗余连接_II.cpp.s
+
+771._宝石与石头.o: 771._宝石与石头.cpp.o
+
+.PHONY : 771._宝石与石头.o
+
+# target to build an object file
+771._宝石与石头.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o
+.PHONY : 771._宝石与石头.cpp.o
+
+771._宝石与石头.i: 771._宝石与石头.cpp.i
+
+.PHONY : 771._宝石与石头.i
+
+# target to preprocess a source file
+771._宝石与石头.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/771._宝石与石头.cpp.i
+.PHONY : 771._宝石与石头.cpp.i
+
+771._宝石与石头.s: 771._宝石与石头.cpp.s
+
+.PHONY : 771._宝石与石头.s
+
+# target to generate assembly for a file
+771._宝石与石头.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/771._宝石与石头.cpp.s
+.PHONY : 771._宝石与石头.cpp.s
 
 796._旋转字符串.o: 796._旋转字符串.cpp.o
 
@@ -425,12 +479,18 @@ help:
 	@echo "... 113._路径总和_II.o"
 	@echo "... 113._路径总和_II.i"
 	@echo "... 113._路径总和_II.s"
+	@echo "... 1528._重新排列字符串.o"
+	@echo "... 1528._重新排列字符串.i"
+	@echo "... 1528._重新排列字符串.s"
 	@echo "... 5526._最多可达成的换楼请求数目.o"
 	@echo "... 5526._最多可达成的换楼请求数目.i"
 	@echo "... 5526._最多可达成的换楼请求数目.s"
 	@echo "... 685._冗余连接_II.o"
 	@echo "... 685._冗余连接_II.i"
 	@echo "... 685._冗余连接_II.s"
+	@echo "... 771._宝石与石头.o"
+	@echo "... 771._宝石与石头.i"
+	@echo "... 771._宝石与石头.s"
 	@echo "... 796._旋转字符串.o"
 	@echo "... 796._旋转字符串.i"
 	@echo "... 796._旋转字符串.s"

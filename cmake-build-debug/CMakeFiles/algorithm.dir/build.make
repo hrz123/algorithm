@@ -207,6 +207,32 @@ CMakeFiles/algorithm.dir/山谷序列.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/山谷序列.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/apple/Developer/algorithm/山谷序列.cpp -o CMakeFiles/algorithm.dir/山谷序列.cpp.s
 
+CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o: ../771.\ 宝石与石头.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o -c "/Users/apple/Developer/algorithm/771. 宝石与石头.cpp"
+
+CMakeFiles/algorithm.dir/771._宝石与石头.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/771._宝石与石头.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/771. 宝石与石头.cpp" > CMakeFiles/algorithm.dir/771._宝石与石头.cpp.i
+
+CMakeFiles/algorithm.dir/771._宝石与石头.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/771._宝石与石头.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/771. 宝石与石头.cpp" -o CMakeFiles/algorithm.dir/771._宝石与石头.cpp.s
+
+CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o: ../1528.\ 重新排列字符串.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o -c "/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp"
+
+CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp" > CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.i
+
+CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp" -o CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.s
+
 # Object files for target algorithm
 algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/main.cpp.o" \
@@ -218,7 +244,9 @@ algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/113._路径总和_II.cpp.o" \
 "CMakeFiles/algorithm.dir/Solution.cpp.o" \
 "CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o" \
-"CMakeFiles/algorithm.dir/山谷序列.cpp.o"
+"CMakeFiles/algorithm.dir/山谷序列.cpp.o" \
+"CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o" \
+"CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
@@ -233,9 +261,11 @@ algorithm: CMakeFiles/algorithm.dir/113._路径总和_II.cpp.o
 algorithm: CMakeFiles/algorithm.dir/Solution.cpp.o
 algorithm: CMakeFiles/algorithm.dir/5526._最多可达成的换楼请求数目.cpp.o
 algorithm: CMakeFiles/algorithm.dir/山谷序列.cpp.o
+algorithm: CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o
+algorithm: CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable algorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
