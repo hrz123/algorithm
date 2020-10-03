@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/apple/Developer/algorithm/1. 两数之和 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/113. 路径总和 II.cpp">
 			<Option target="algorithm"/>
 		</Unit>

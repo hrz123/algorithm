@@ -143,6 +143,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/build
 .PHONY : algorithm/fast
 
+1._两数之和_.o: 1._两数之和_.cpp.o
+
+.PHONY : 1._两数之和_.o
+
+# target to build an object file
+1._两数之和_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1._两数之和_.cpp.o
+.PHONY : 1._两数之和_.cpp.o
+
+1._两数之和_.i: 1._两数之和_.cpp.i
+
+.PHONY : 1._两数之和_.i
+
+# target to preprocess a source file
+1._两数之和_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1._两数之和_.cpp.i
+.PHONY : 1._两数之和_.cpp.i
+
+1._两数之和_.s: 1._两数之和_.cpp.s
+
+.PHONY : 1._两数之和_.s
+
+# target to generate assembly for a file
+1._两数之和_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1._两数之和_.cpp.s
+.PHONY : 1._两数之和_.cpp.s
+
 113._路径总和_II.o: 113._路径总和_II.cpp.o
 
 .PHONY : 113._路径总和_II.o
@@ -476,6 +503,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... algorithm"
+	@echo "... 1._两数之和_.o"
+	@echo "... 1._两数之和_.i"
+	@echo "... 1._两数之和_.s"
 	@echo "... 113._路径总和_II.o"
 	@echo "... 113._路径总和_II.i"
 	@echo "... 113._路径总和_II.s"
