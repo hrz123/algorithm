@@ -86,6 +86,9 @@
 		<Unit filename="/Users/apple/Developer/algorithm/113. 路径总和 II.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp">
 			<Option target="algorithm"/>
 		</Unit>
@@ -102,6 +105,9 @@
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/808. 分汤.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/834. 树中距离之和.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/851. 喧闹和富有.cpp">

@@ -197,6 +197,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/113._路径总和_II.cpp.s
 .PHONY : 113._路径总和_II.cpp.s
 
+1436._旅行终点站_.o: 1436._旅行终点站_.cpp.o
+
+.PHONY : 1436._旅行终点站_.o
+
+# target to build an object file
+1436._旅行终点站_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o
+.PHONY : 1436._旅行终点站_.cpp.o
+
+1436._旅行终点站_.i: 1436._旅行终点站_.cpp.i
+
+.PHONY : 1436._旅行终点站_.i
+
+# target to preprocess a source file
+1436._旅行终点站_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.i
+.PHONY : 1436._旅行终点站_.cpp.i
+
+1436._旅行终点站_.s: 1436._旅行终点站_.cpp.s
+
+.PHONY : 1436._旅行终点站_.s
+
+# target to generate assembly for a file
+1436._旅行终点站_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.s
+.PHONY : 1436._旅行终点站_.cpp.s
+
 1528._重新排列字符串.o: 1528._重新排列字符串.cpp.o
 
 .PHONY : 1528._重新排列字符串.o
@@ -359,6 +386,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/808._分汤.cpp.s
 .PHONY : 808._分汤.cpp.s
 
+834._树中距离之和.o: 834._树中距离之和.cpp.o
+
+.PHONY : 834._树中距离之和.o
+
+# target to build an object file
+834._树中距离之和.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o
+.PHONY : 834._树中距离之和.cpp.o
+
+834._树中距离之和.i: 834._树中距离之和.cpp.i
+
+.PHONY : 834._树中距离之和.i
+
+# target to preprocess a source file
+834._树中距离之和.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/834._树中距离之和.cpp.i
+.PHONY : 834._树中距离之和.cpp.i
+
+834._树中距离之和.s: 834._树中距离之和.cpp.s
+
+.PHONY : 834._树中距离之和.s
+
+# target to generate assembly for a file
+834._树中距离之和.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/834._树中距离之和.cpp.s
+.PHONY : 834._树中距离之和.cpp.s
+
 851._喧闹和富有.o: 851._喧闹和富有.cpp.o
 
 .PHONY : 851._喧闹和富有.o
@@ -509,6 +563,9 @@ help:
 	@echo "... 113._路径总和_II.o"
 	@echo "... 113._路径总和_II.i"
 	@echo "... 113._路径总和_II.s"
+	@echo "... 1436._旅行终点站_.o"
+	@echo "... 1436._旅行终点站_.i"
+	@echo "... 1436._旅行终点站_.s"
 	@echo "... 1528._重新排列字符串.o"
 	@echo "... 1528._重新排列字符串.i"
 	@echo "... 1528._重新排列字符串.s"
@@ -527,6 +584,9 @@ help:
 	@echo "... 808._分汤.o"
 	@echo "... 808._分汤.i"
 	@echo "... 808._分汤.s"
+	@echo "... 834._树中距离之和.o"
+	@echo "... 834._树中距离之和.i"
+	@echo "... 834._树中距离之和.s"
 	@echo "... 851._喧闹和富有.o"
 	@echo "... 851._喧闹和富有.i"
 	@echo "... 851._喧闹和富有.s"

@@ -246,6 +246,32 @@ CMakeFiles/algorithm.dir/1._两数之和_.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1._两数之和_.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1. 两数之和 .cpp" -o CMakeFiles/algorithm.dir/1._两数之和_.cpp.s
 
+CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o: ../1436.\ 旅行终点站\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o -c "/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp"
+
+CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp" > CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.i
+
+CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp" -o CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.s
+
+CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o: ../834.\ 树中距离之和.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o -c "/Users/apple/Developer/algorithm/834. 树中距离之和.cpp"
+
+CMakeFiles/algorithm.dir/834._树中距离之和.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/834._树中距离之和.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/834. 树中距离之和.cpp" > CMakeFiles/algorithm.dir/834._树中距离之和.cpp.i
+
+CMakeFiles/algorithm.dir/834._树中距离之和.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/834._树中距离之和.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/834. 树中距离之和.cpp" -o CMakeFiles/algorithm.dir/834._树中距离之和.cpp.s
+
 # Object files for target algorithm
 algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/main.cpp.o" \
@@ -260,7 +286,9 @@ algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/山谷序列.cpp.o" \
 "CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o" \
 "CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o" \
-"CMakeFiles/algorithm.dir/1._两数之和_.cpp.o"
+"CMakeFiles/algorithm.dir/1._两数之和_.cpp.o" \
+"CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o" \
+"CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
@@ -278,9 +306,11 @@ algorithm: CMakeFiles/algorithm.dir/山谷序列.cpp.o
 algorithm: CMakeFiles/algorithm.dir/771._宝石与石头.cpp.o
 algorithm: CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o
 algorithm: CMakeFiles/algorithm.dir/1._两数之和_.cpp.o
+algorithm: CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o
+algorithm: CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable algorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
