@@ -305,6 +305,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/685._冗余连接_II.cpp.s
 .PHONY : 685._冗余连接_II.cpp.s
 
+75._颜色分类_.o: 75._颜色分类_.cpp.o
+
+.PHONY : 75._颜色分类_.o
+
+# target to build an object file
+75._颜色分类_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/75._颜色分类_.cpp.o
+.PHONY : 75._颜色分类_.cpp.o
+
+75._颜色分类_.i: 75._颜色分类_.cpp.i
+
+.PHONY : 75._颜色分类_.i
+
+# target to preprocess a source file
+75._颜色分类_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/75._颜色分类_.cpp.i
+.PHONY : 75._颜色分类_.cpp.i
+
+75._颜色分类_.s: 75._颜色分类_.cpp.s
+
+.PHONY : 75._颜色分类_.s
+
+# target to generate assembly for a file
+75._颜色分类_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/75._颜色分类_.cpp.s
+.PHONY : 75._颜色分类_.cpp.s
+
 771._宝石与石头.o: 771._宝石与石头.cpp.o
 
 .PHONY : 771._宝石与石头.o
@@ -575,6 +602,9 @@ help:
 	@echo "... 685._冗余连接_II.o"
 	@echo "... 685._冗余连接_II.i"
 	@echo "... 685._冗余连接_II.s"
+	@echo "... 75._颜色分类_.o"
+	@echo "... 75._颜色分类_.i"
+	@echo "... 75._颜色分类_.s"
 	@echo "... 771._宝石与石头.o"
 	@echo "... 771._宝石与石头.i"
 	@echo "... 771._宝石与石头.s"

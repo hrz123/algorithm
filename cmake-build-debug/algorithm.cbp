@@ -98,6 +98,9 @@
 		<Unit filename="/Users/apple/Developer/algorithm/685. 冗余连接 II.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/75. 颜色分类 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/771. 宝石与石头.cpp">
 			<Option target="algorithm"/>
 		</Unit>
