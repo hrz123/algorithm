@@ -170,6 +170,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1._两数之和_.cpp.s
 .PHONY : 1._两数之和_.cpp.s
 
+1021._删除最外层的括号_.o: 1021._删除最外层的括号_.cpp.o
+
+.PHONY : 1021._删除最外层的括号_.o
+
+# target to build an object file
+1021._删除最外层的括号_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1021._删除最外层的括号_.cpp.o
+.PHONY : 1021._删除最外层的括号_.cpp.o
+
+1021._删除最外层的括号_.i: 1021._删除最外层的括号_.cpp.i
+
+.PHONY : 1021._删除最外层的括号_.i
+
+# target to preprocess a source file
+1021._删除最外层的括号_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1021._删除最外层的括号_.cpp.i
+.PHONY : 1021._删除最外层的括号_.cpp.i
+
+1021._删除最外层的括号_.s: 1021._删除最外层的括号_.cpp.s
+
+.PHONY : 1021._删除最外层的括号_.s
+
+# target to generate assembly for a file
+1021._删除最外层的括号_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1021._删除最外层的括号_.cpp.s
+.PHONY : 1021._删除最外层的括号_.cpp.s
+
 113._路径总和_II.o: 113._路径总和_II.cpp.o
 
 .PHONY : 113._路径总和_II.o
@@ -196,6 +223,33 @@ algorithm/fast:
 113._路径总和_II.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/113._路径总和_II.cpp.s
 .PHONY : 113._路径总和_II.cpp.s
+
+1299._将每个元素替换为右侧最大元素.o: 1299._将每个元素替换为右侧最大元素.cpp.o
+
+.PHONY : 1299._将每个元素替换为右侧最大元素.o
+
+# target to build an object file
+1299._将每个元素替换为右侧最大元素.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.o
+.PHONY : 1299._将每个元素替换为右侧最大元素.cpp.o
+
+1299._将每个元素替换为右侧最大元素.i: 1299._将每个元素替换为右侧最大元素.cpp.i
+
+.PHONY : 1299._将每个元素替换为右侧最大元素.i
+
+# target to preprocess a source file
+1299._将每个元素替换为右侧最大元素.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.i
+.PHONY : 1299._将每个元素替换为右侧最大元素.cpp.i
+
+1299._将每个元素替换为右侧最大元素.s: 1299._将每个元素替换为右侧最大元素.cpp.s
+
+.PHONY : 1299._将每个元素替换为右侧最大元素.s
+
+# target to generate assembly for a file
+1299._将每个元素替换为右侧最大元素.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.s
+.PHONY : 1299._将每个元素替换为右侧最大元素.cpp.s
 
 1436._旅行终点站_.o: 1436._旅行终点站_.cpp.o
 
@@ -250,6 +304,33 @@ algorithm/fast:
 1528._重新排列字符串.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.s
 .PHONY : 1528._重新排列字符串.cpp.s
+
+461._汉明距离_.o: 461._汉明距离_.cpp.o
+
+.PHONY : 461._汉明距离_.o
+
+# target to build an object file
+461._汉明距离_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/461._汉明距离_.cpp.o
+.PHONY : 461._汉明距离_.cpp.o
+
+461._汉明距离_.i: 461._汉明距离_.cpp.i
+
+.PHONY : 461._汉明距离_.i
+
+# target to preprocess a source file
+461._汉明距离_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/461._汉明距离_.cpp.i
+.PHONY : 461._汉明距离_.cpp.i
+
+461._汉明距离_.s: 461._汉明距离_.cpp.s
+
+.PHONY : 461._汉明距离_.s
+
+# target to generate assembly for a file
+461._汉明距离_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/461._汉明距离_.cpp.s
+.PHONY : 461._汉明距离_.cpp.s
 
 5526._最多可达成的换楼请求数目.o: 5526._最多可达成的换楼请求数目.cpp.o
 
@@ -467,6 +548,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/851._喧闹和富有.cpp.s
 .PHONY : 851._喧闹和富有.cpp.s
 
+938._二叉搜索树的范围和_.o: 938._二叉搜索树的范围和_.cpp.o
+
+.PHONY : 938._二叉搜索树的范围和_.o
+
+# target to build an object file
+938._二叉搜索树的范围和_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.o
+.PHONY : 938._二叉搜索树的范围和_.cpp.o
+
+938._二叉搜索树的范围和_.i: 938._二叉搜索树的范围和_.cpp.i
+
+.PHONY : 938._二叉搜索树的范围和_.i
+
+# target to preprocess a source file
+938._二叉搜索树的范围和_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.i
+.PHONY : 938._二叉搜索树的范围和_.cpp.i
+
+938._二叉搜索树的范围和_.s: 938._二叉搜索树的范围和_.cpp.s
+
+.PHONY : 938._二叉搜索树的范围和_.s
+
+# target to generate assembly for a file
+938._二叉搜索树的范围和_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.s
+.PHONY : 938._二叉搜索树的范围和_.cpp.s
+
 Solution.o: Solution.cpp.o
 
 .PHONY : Solution.o
@@ -587,15 +695,24 @@ help:
 	@echo "... 1._两数之和_.o"
 	@echo "... 1._两数之和_.i"
 	@echo "... 1._两数之和_.s"
+	@echo "... 1021._删除最外层的括号_.o"
+	@echo "... 1021._删除最外层的括号_.i"
+	@echo "... 1021._删除最外层的括号_.s"
 	@echo "... 113._路径总和_II.o"
 	@echo "... 113._路径总和_II.i"
 	@echo "... 113._路径总和_II.s"
+	@echo "... 1299._将每个元素替换为右侧最大元素.o"
+	@echo "... 1299._将每个元素替换为右侧最大元素.i"
+	@echo "... 1299._将每个元素替换为右侧最大元素.s"
 	@echo "... 1436._旅行终点站_.o"
 	@echo "... 1436._旅行终点站_.i"
 	@echo "... 1436._旅行终点站_.s"
 	@echo "... 1528._重新排列字符串.o"
 	@echo "... 1528._重新排列字符串.i"
 	@echo "... 1528._重新排列字符串.s"
+	@echo "... 461._汉明距离_.o"
+	@echo "... 461._汉明距离_.i"
+	@echo "... 461._汉明距离_.s"
 	@echo "... 5526._最多可达成的换楼请求数目.o"
 	@echo "... 5526._最多可达成的换楼请求数目.i"
 	@echo "... 5526._最多可达成的换楼请求数目.s"
@@ -620,6 +737,9 @@ help:
 	@echo "... 851._喧闹和富有.o"
 	@echo "... 851._喧闹和富有.i"
 	@echo "... 851._喧闹和富有.s"
+	@echo "... 938._二叉搜索树的范围和_.o"
+	@echo "... 938._二叉搜索树的范围和_.i"
+	@echo "... 938._二叉搜索树的范围和_.s"
 	@echo "... Solution.o"
 	@echo "... Solution.i"
 	@echo "... Solution.s"

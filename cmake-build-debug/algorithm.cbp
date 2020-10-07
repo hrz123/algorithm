@@ -83,13 +83,22 @@
 		<Unit filename="/Users/apple/Developer/algorithm/1. 两数之和 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1021. 删除最外层的括号 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/113. 路径总和 II.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1299. 将每个元素替换为右侧最大元素.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/461. 汉明距离 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/5526. 最多可达成的换楼请求数目.cpp">
@@ -114,6 +123,9 @@
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/851. 喧闹和富有.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/938. 二叉搜索树的范围和 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/Solution.cpp">
