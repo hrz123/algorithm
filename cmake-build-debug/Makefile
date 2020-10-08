@@ -467,6 +467,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/796._旋转字符串.cpp.s
 .PHONY : 796._旋转字符串.cpp.s
 
+804._唯一摩尔斯密码词_.o: 804._唯一摩尔斯密码词_.cpp.o
+
+.PHONY : 804._唯一摩尔斯密码词_.o
+
+# target to build an object file
+804._唯一摩尔斯密码词_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.o
+.PHONY : 804._唯一摩尔斯密码词_.cpp.o
+
+804._唯一摩尔斯密码词_.i: 804._唯一摩尔斯密码词_.cpp.i
+
+.PHONY : 804._唯一摩尔斯密码词_.i
+
+# target to preprocess a source file
+804._唯一摩尔斯密码词_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.i
+.PHONY : 804._唯一摩尔斯密码词_.cpp.i
+
+804._唯一摩尔斯密码词_.s: 804._唯一摩尔斯密码词_.cpp.s
+
+.PHONY : 804._唯一摩尔斯密码词_.s
+
+# target to generate assembly for a file
+804._唯一摩尔斯密码词_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.s
+.PHONY : 804._唯一摩尔斯密码词_.cpp.s
+
 808._分汤.o: 808._分汤.cpp.o
 
 .PHONY : 808._分汤.o
@@ -493,6 +520,33 @@ algorithm/fast:
 808._分汤.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/808._分汤.cpp.s
 .PHONY : 808._分汤.cpp.s
+
+832._翻转图像_.o: 832._翻转图像_.cpp.o
+
+.PHONY : 832._翻转图像_.o
+
+# target to build an object file
+832._翻转图像_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/832._翻转图像_.cpp.o
+.PHONY : 832._翻转图像_.cpp.o
+
+832._翻转图像_.i: 832._翻转图像_.cpp.i
+
+.PHONY : 832._翻转图像_.i
+
+# target to preprocess a source file
+832._翻转图像_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/832._翻转图像_.cpp.i
+.PHONY : 832._翻转图像_.cpp.i
+
+832._翻转图像_.s: 832._翻转图像_.cpp.s
+
+.PHONY : 832._翻转图像_.s
+
+# target to generate assembly for a file
+832._翻转图像_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/832._翻转图像_.cpp.s
+.PHONY : 832._翻转图像_.cpp.s
 
 834._树中距离之和.o: 834._树中距离之和.cpp.o
 
@@ -656,6 +710,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+剑指_Offer_05._替换空格_.o: 剑指_Offer_05._替换空格_.cpp.o
+
+.PHONY : 剑指_Offer_05._替换空格_.o
+
+# target to build an object file
+剑指_Offer_05._替换空格_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.o
+.PHONY : 剑指_Offer_05._替换空格_.cpp.o
+
+剑指_Offer_05._替换空格_.i: 剑指_Offer_05._替换空格_.cpp.i
+
+.PHONY : 剑指_Offer_05._替换空格_.i
+
+# target to preprocess a source file
+剑指_Offer_05._替换空格_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.i
+.PHONY : 剑指_Offer_05._替换空格_.cpp.i
+
+剑指_Offer_05._替换空格_.s: 剑指_Offer_05._替换空格_.cpp.s
+
+.PHONY : 剑指_Offer_05._替换空格_.s
+
+# target to generate assembly for a file
+剑指_Offer_05._替换空格_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.s
+.PHONY : 剑指_Offer_05._替换空格_.cpp.s
+
 山谷序列.o: 山谷序列.cpp.o
 
 .PHONY : 山谷序列.o
@@ -728,9 +809,15 @@ help:
 	@echo "... 796._旋转字符串.o"
 	@echo "... 796._旋转字符串.i"
 	@echo "... 796._旋转字符串.s"
+	@echo "... 804._唯一摩尔斯密码词_.o"
+	@echo "... 804._唯一摩尔斯密码词_.i"
+	@echo "... 804._唯一摩尔斯密码词_.s"
 	@echo "... 808._分汤.o"
 	@echo "... 808._分汤.i"
 	@echo "... 808._分汤.s"
+	@echo "... 832._翻转图像_.o"
+	@echo "... 832._翻转图像_.i"
+	@echo "... 832._翻转图像_.s"
 	@echo "... 834._树中距离之和.o"
 	@echo "... 834._树中距离之和.i"
 	@echo "... 834._树中距离之和.s"
@@ -749,6 +836,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... 剑指_Offer_05._替换空格_.o"
+	@echo "... 剑指_Offer_05._替换空格_.i"
+	@echo "... 剑指_Offer_05._替换空格_.s"
 	@echo "... 山谷序列.o"
 	@echo "... 山谷序列.i"
 	@echo "... 山谷序列.s"

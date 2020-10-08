@@ -337,6 +337,45 @@ CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/938. 二叉搜索树的范围和 .cpp" -o CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.s
 
+CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.o: ../剑指\ Offer\ 05.\ 替换空格\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.o -c "/Users/apple/Developer/algorithm/剑指 Offer 05. 替换空格 .cpp"
+
+CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/剑指 Offer 05. 替换空格 .cpp" > CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.i
+
+CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/剑指 Offer 05. 替换空格 .cpp" -o CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.s
+
+CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.o: ../804.\ 唯一摩尔斯密码词\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.o -c "/Users/apple/Developer/algorithm/804. 唯一摩尔斯密码词 .cpp"
+
+CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/804. 唯一摩尔斯密码词 .cpp" > CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.i
+
+CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/804. 唯一摩尔斯密码词 .cpp" -o CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.s
+
+CMakeFiles/algorithm.dir/832._翻转图像_.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/832._翻转图像_.cpp.o: ../832.\ 翻转图像\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/algorithm.dir/832._翻转图像_.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/832._翻转图像_.cpp.o -c "/Users/apple/Developer/algorithm/832. 翻转图像 .cpp"
+
+CMakeFiles/algorithm.dir/832._翻转图像_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/832._翻转图像_.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/832. 翻转图像 .cpp" > CMakeFiles/algorithm.dir/832._翻转图像_.cpp.i
+
+CMakeFiles/algorithm.dir/832._翻转图像_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/832._翻转图像_.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/832. 翻转图像 .cpp" -o CMakeFiles/algorithm.dir/832._翻转图像_.cpp.s
+
 # Object files for target algorithm
 algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/main.cpp.o" \
@@ -358,7 +397,10 @@ algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/461._汉明距离_.cpp.o" \
 "CMakeFiles/algorithm.dir/1021._删除最外层的括号_.cpp.o" \
 "CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.o" \
-"CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.o"
+"CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.o" \
+"CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.o" \
+"CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.o" \
+"CMakeFiles/algorithm.dir/832._翻转图像_.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
@@ -383,9 +425,12 @@ algorithm: CMakeFiles/algorithm.dir/461._汉明距离_.cpp.o
 algorithm: CMakeFiles/algorithm.dir/1021._删除最外层的括号_.cpp.o
 algorithm: CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.o
 algorithm: CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.o
+algorithm: CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.o
+algorithm: CMakeFiles/algorithm.dir/804._唯一摩尔斯密码词_.cpp.o
+algorithm: CMakeFiles/algorithm.dir/832._翻转图像_.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking CXX executable algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable algorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -116,7 +116,13 @@
 		<Unit filename="/Users/apple/Developer/algorithm/796. 旋转字符串.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/804. 唯一摩尔斯密码词 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/808. 分汤.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/832. 翻转图像 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/834. 树中距离之和.cpp">
@@ -135,6 +141,9 @@
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/main.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/剑指 Offer 05. 替换空格 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/山谷序列.cpp">
