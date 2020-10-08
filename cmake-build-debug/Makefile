@@ -224,6 +224,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/113._路径总和_II.cpp.s
 .PHONY : 113._路径总和_II.cpp.s
 
+1252._奇数值单元格的数目_.o: 1252._奇数值单元格的数目_.cpp.o
+
+.PHONY : 1252._奇数值单元格的数目_.o
+
+# target to build an object file
+1252._奇数值单元格的数目_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1252._奇数值单元格的数目_.cpp.o
+.PHONY : 1252._奇数值单元格的数目_.cpp.o
+
+1252._奇数值单元格的数目_.i: 1252._奇数值单元格的数目_.cpp.i
+
+.PHONY : 1252._奇数值单元格的数目_.i
+
+# target to preprocess a source file
+1252._奇数值单元格的数目_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1252._奇数值单元格的数目_.cpp.i
+.PHONY : 1252._奇数值单元格的数目_.cpp.i
+
+1252._奇数值单元格的数目_.s: 1252._奇数值单元格的数目_.cpp.s
+
+.PHONY : 1252._奇数值单元格的数目_.s
+
+# target to generate assembly for a file
+1252._奇数值单元格的数目_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1252._奇数值单元格的数目_.cpp.s
+.PHONY : 1252._奇数值单元格的数目_.cpp.s
+
 1299._将每个元素替换为右侧最大元素.o: 1299._将每个元素替换为右侧最大元素.cpp.o
 
 .PHONY : 1299._将每个元素替换为右侧最大元素.o
@@ -250,6 +277,33 @@ algorithm/fast:
 1299._将每个元素替换为右侧最大元素.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.s
 .PHONY : 1299._将每个元素替换为右侧最大元素.cpp.s
+
+1309._解码字母到整数映射_.o: 1309._解码字母到整数映射_.cpp.o
+
+.PHONY : 1309._解码字母到整数映射_.o
+
+# target to build an object file
+1309._解码字母到整数映射_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1309._解码字母到整数映射_.cpp.o
+.PHONY : 1309._解码字母到整数映射_.cpp.o
+
+1309._解码字母到整数映射_.i: 1309._解码字母到整数映射_.cpp.i
+
+.PHONY : 1309._解码字母到整数映射_.i
+
+# target to preprocess a source file
+1309._解码字母到整数映射_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1309._解码字母到整数映射_.cpp.i
+.PHONY : 1309._解码字母到整数映射_.cpp.i
+
+1309._解码字母到整数映射_.s: 1309._解码字母到整数映射_.cpp.s
+
+.PHONY : 1309._解码字母到整数映射_.s
+
+# target to generate assembly for a file
+1309._解码字母到整数映射_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1309._解码字母到整数映射_.cpp.s
+.PHONY : 1309._解码字母到整数映射_.cpp.s
 
 1436._旅行终点站_.o: 1436._旅行终点站_.cpp.o
 
@@ -782,9 +836,15 @@ help:
 	@echo "... 113._路径总和_II.o"
 	@echo "... 113._路径总和_II.i"
 	@echo "... 113._路径总和_II.s"
+	@echo "... 1252._奇数值单元格的数目_.o"
+	@echo "... 1252._奇数值单元格的数目_.i"
+	@echo "... 1252._奇数值单元格的数目_.s"
 	@echo "... 1299._将每个元素替换为右侧最大元素.o"
 	@echo "... 1299._将每个元素替换为右侧最大元素.i"
 	@echo "... 1299._将每个元素替换为右侧最大元素.s"
+	@echo "... 1309._解码字母到整数映射_.o"
+	@echo "... 1309._解码字母到整数映射_.i"
+	@echo "... 1309._解码字母到整数映射_.s"
 	@echo "... 1436._旅行终点站_.o"
 	@echo "... 1436._旅行终点站_.i"
 	@echo "... 1436._旅行终点站_.s"
