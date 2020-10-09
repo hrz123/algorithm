@@ -98,7 +98,16 @@
 		<Unit filename="/Users/apple/Developer/algorithm/1309. 解码字母到整数映射 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1323. 6 和 9 组成的最大数字.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/141. 环形链表.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1464. 数组中两元素的最大乘积.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp">
@@ -150,6 +159,9 @@
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/剑指 Offer 05. 替换空格 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/剑指 Offer 58 - II. 左旋转字符串.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/山谷序列.cpp">
