@@ -14,16 +14,16 @@ class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
         ListNode *slow = head, *fast = head;
-        bool hasCycle = false;
+        bool noCycle = true;
         while (fast != nullptr && fast->next != nullptr) {
             slow = slow->next;
             fast = fast->next->next;
             if (slow == fast) {
-                hasCycle = true;
+                noCycle = false;
                 break;
             }
         }
-        if (!hasCycle) return nullptr;
+        if (noCycle) return nullptr;
         fast = head;
         while (slow != fast) {
             slow = slow->next;

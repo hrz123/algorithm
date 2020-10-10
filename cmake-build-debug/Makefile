@@ -332,6 +332,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1323._6_和_9_组成的最大数字.cpp.s
 .PHONY : 1323._6_和_9_组成的最大数字.cpp.s
 
+1370._上升下降字符串.o: 1370._上升下降字符串.cpp.o
+
+.PHONY : 1370._上升下降字符串.o
+
+# target to build an object file
+1370._上升下降字符串.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o
+.PHONY : 1370._上升下降字符串.cpp.o
+
+1370._上升下降字符串.i: 1370._上升下降字符串.cpp.i
+
+.PHONY : 1370._上升下降字符串.i
+
+# target to preprocess a source file
+1370._上升下降字符串.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.i
+.PHONY : 1370._上升下降字符串.cpp.i
+
+1370._上升下降字符串.s: 1370._上升下降字符串.cpp.s
+
+.PHONY : 1370._上升下降字符串.s
+
+# target to generate assembly for a file
+1370._上升下降字符串.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.s
+.PHONY : 1370._上升下降字符串.cpp.s
+
 141._环形链表.o: 141._环形链表.cpp.o
 
 .PHONY : 141._环形链表.o
@@ -547,6 +574,33 @@ algorithm/fast:
 685._冗余连接_II.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/685._冗余连接_II.cpp.s
 .PHONY : 685._冗余连接_II.cpp.s
+
+728._自除数.o: 728._自除数.cpp.o
+
+.PHONY : 728._自除数.o
+
+# target to build an object file
+728._自除数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/728._自除数.cpp.o
+.PHONY : 728._自除数.cpp.o
+
+728._自除数.i: 728._自除数.cpp.i
+
+.PHONY : 728._自除数.i
+
+# target to preprocess a source file
+728._自除数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/728._自除数.cpp.i
+.PHONY : 728._自除数.cpp.i
+
+728._自除数.s: 728._自除数.cpp.s
+
+.PHONY : 728._自除数.s
+
+# target to generate assembly for a file
+728._自除数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/728._自除数.cpp.s
+.PHONY : 728._自除数.cpp.s
 
 75._颜色分类_.o: 75._颜色分类_.cpp.o
 
@@ -899,6 +953,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.s
 .PHONY : 剑指_Offer_05._替换空格_.cpp.s
 
+剑指_Offer_24._反转链表.o: 剑指_Offer_24._反转链表.cpp.o
+
+.PHONY : 剑指_Offer_24._反转链表.o
+
+# target to build an object file
+剑指_Offer_24._反转链表.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.o
+.PHONY : 剑指_Offer_24._反转链表.cpp.o
+
+剑指_Offer_24._反转链表.i: 剑指_Offer_24._反转链表.cpp.i
+
+.PHONY : 剑指_Offer_24._反转链表.i
+
+# target to preprocess a source file
+剑指_Offer_24._反转链表.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.i
+.PHONY : 剑指_Offer_24._反转链表.cpp.i
+
+剑指_Offer_24._反转链表.s: 剑指_Offer_24._反转链表.cpp.s
+
+.PHONY : 剑指_Offer_24._反转链表.s
+
+# target to generate assembly for a file
+剑指_Offer_24._反转链表.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.s
+.PHONY : 剑指_Offer_24._反转链表.cpp.s
+
 剑指_Offer_58_-_II._左旋转字符串.o: 剑指_Offer_58_-_II._左旋转字符串.cpp.o
 
 .PHONY : 剑指_Offer_58_-_II._左旋转字符串.o
@@ -983,6 +1064,9 @@ help:
 	@echo "... 1323._6_和_9_组成的最大数字.o"
 	@echo "... 1323._6_和_9_组成的最大数字.i"
 	@echo "... 1323._6_和_9_组成的最大数字.s"
+	@echo "... 1370._上升下降字符串.o"
+	@echo "... 1370._上升下降字符串.i"
+	@echo "... 1370._上升下降字符串.s"
 	@echo "... 141._环形链表.o"
 	@echo "... 141._环形链表.i"
 	@echo "... 141._环形链表.s"
@@ -1007,6 +1091,9 @@ help:
 	@echo "... 685._冗余连接_II.o"
 	@echo "... 685._冗余连接_II.i"
 	@echo "... 685._冗余连接_II.s"
+	@echo "... 728._自除数.o"
+	@echo "... 728._自除数.i"
+	@echo "... 728._自除数.s"
 	@echo "... 75._颜色分类_.o"
 	@echo "... 75._颜色分类_.i"
 	@echo "... 75._颜色分类_.s"
@@ -1046,6 +1133,9 @@ help:
 	@echo "... 剑指_Offer_05._替换空格_.o"
 	@echo "... 剑指_Offer_05._替换空格_.i"
 	@echo "... 剑指_Offer_05._替换空格_.s"
+	@echo "... 剑指_Offer_24._反转链表.o"
+	@echo "... 剑指_Offer_24._反转链表.i"
+	@echo "... 剑指_Offer_24._反转链表.s"
 	@echo "... 剑指_Offer_58_-_II._左旋转字符串.o"
 	@echo "... 剑指_Offer_58_-_II._左旋转字符串.i"
 	@echo "... 剑指_Offer_58_-_II._左旋转字符串.s"

@@ -467,6 +467,45 @@ CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/142. 环形链表 II .cpp" -o CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.s
 
+CMakeFiles/algorithm.dir/728._自除数.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/728._自除数.cpp.o: ../728.\ 自除数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/algorithm.dir/728._自除数.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/728._自除数.cpp.o -c "/Users/apple/Developer/algorithm/728. 自除数.cpp"
+
+CMakeFiles/algorithm.dir/728._自除数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/728._自除数.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/728. 自除数.cpp" > CMakeFiles/algorithm.dir/728._自除数.cpp.i
+
+CMakeFiles/algorithm.dir/728._自除数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/728._自除数.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/728. 自除数.cpp" -o CMakeFiles/algorithm.dir/728._自除数.cpp.s
+
+CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.o: ../剑指\ Offer\ 24.\ 反转链表.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.o -c "/Users/apple/Developer/algorithm/剑指 Offer 24. 反转链表.cpp"
+
+CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/剑指 Offer 24. 反转链表.cpp" > CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.i
+
+CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/剑指 Offer 24. 反转链表.cpp" -o CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.s
+
+CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o: ../1370.\ 上升下降字符串.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o -c "/Users/apple/Developer/algorithm/1370. 上升下降字符串.cpp"
+
+CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/1370. 上升下降字符串.cpp" > CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.i
+
+CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1370. 上升下降字符串.cpp" -o CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.s
+
 # Object files for target algorithm
 algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/main.cpp.o" \
@@ -498,7 +537,10 @@ algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/剑指_Offer_58_-_II._左旋转字符串.cpp.o" \
 "CMakeFiles/algorithm.dir/1464._数组中两元素的最大乘积.cpp.o" \
 "CMakeFiles/algorithm.dir/1323._6_和_9_组成的最大数字.cpp.o" \
-"CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.o"
+"CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.o" \
+"CMakeFiles/algorithm.dir/728._自除数.cpp.o" \
+"CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.o" \
+"CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
@@ -533,9 +575,12 @@ algorithm: CMakeFiles/algorithm.dir/剑指_Offer_58_-_II._左旋转字符串.cpp
 algorithm: CMakeFiles/algorithm.dir/1464._数组中两元素的最大乘积.cpp.o
 algorithm: CMakeFiles/algorithm.dir/1323._6_和_9_组成的最大数字.cpp.o
 algorithm: CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.o
+algorithm: CMakeFiles/algorithm.dir/728._自除数.cpp.o
+algorithm: CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.o
+algorithm: CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Linking CXX executable algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Linking CXX executable algorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
