@@ -95,6 +95,9 @@
 		<Unit filename="/Users/apple/Developer/algorithm/1299. 将每个元素替换为右侧最大元素.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1304. 和为零的N个唯一整数.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/1309. 解码字母到整数映射 .cpp">
 			<Option target="algorithm"/>
 		</Unit>

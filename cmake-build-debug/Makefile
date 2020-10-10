@@ -278,6 +278,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.s
 .PHONY : 1299._将每个元素替换为右侧最大元素.cpp.s
 
+1304._和为零的N个唯一整数.o: 1304._和为零的N个唯一整数.cpp.o
+
+.PHONY : 1304._和为零的N个唯一整数.o
+
+# target to build an object file
+1304._和为零的N个唯一整数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1304._和为零的N个唯一整数.cpp.o
+.PHONY : 1304._和为零的N个唯一整数.cpp.o
+
+1304._和为零的N个唯一整数.i: 1304._和为零的N个唯一整数.cpp.i
+
+.PHONY : 1304._和为零的N个唯一整数.i
+
+# target to preprocess a source file
+1304._和为零的N个唯一整数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1304._和为零的N个唯一整数.cpp.i
+.PHONY : 1304._和为零的N个唯一整数.cpp.i
+
+1304._和为零的N个唯一整数.s: 1304._和为零的N个唯一整数.cpp.s
+
+.PHONY : 1304._和为零的N个唯一整数.s
+
+# target to generate assembly for a file
+1304._和为零的N个唯一整数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1304._和为零的N个唯一整数.cpp.s
+.PHONY : 1304._和为零的N个唯一整数.cpp.s
+
 1309._解码字母到整数映射_.o: 1309._解码字母到整数映射_.cpp.o
 
 .PHONY : 1309._解码字母到整数映射_.o
@@ -1058,6 +1085,9 @@ help:
 	@echo "... 1299._将每个元素替换为右侧最大元素.o"
 	@echo "... 1299._将每个元素替换为右侧最大元素.i"
 	@echo "... 1299._将每个元素替换为右侧最大元素.s"
+	@echo "... 1304._和为零的N个唯一整数.o"
+	@echo "... 1304._和为零的N个唯一整数.i"
+	@echo "... 1304._和为零的N个唯一整数.s"
 	@echo "... 1309._解码字母到整数映射_.o"
 	@echo "... 1309._解码字母到整数映射_.i"
 	@echo "... 1309._解码字母到整数映射_.s"

@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm.dir/113._路径总和_II.cpp.o"
   "CMakeFiles/algorithm.dir/1252._奇数值单元格的数目_.cpp.o"
   "CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.o"
+  "CMakeFiles/algorithm.dir/1304._和为零的N个唯一整数.cpp.o"
   "CMakeFiles/algorithm.dir/1309._解码字母到整数映射_.cpp.o"
   "CMakeFiles/algorithm.dir/1323._6_和_9_组成的最大数字.cpp.o"
   "CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o"
