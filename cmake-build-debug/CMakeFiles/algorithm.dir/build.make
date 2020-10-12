@@ -545,6 +545,45 @@ CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.s: cmake_for
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/530. 二叉搜索树的最小绝对差.cpp" -o CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.s
 
+CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o: ../1502.\ 判断能否形成等差数列.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Building CXX object CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o -c "/Users/apple/Developer/algorithm/1502. 判断能否形成等差数列.cpp"
+
+CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/1502. 判断能否形成等差数列.cpp" > CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.i
+
+CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1502. 判断能否形成等差数列.cpp" -o CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.s
+
+CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o: ../1460.\ 通过翻转子数组使两个数组相等.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_38) "Building CXX object CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o -c "/Users/apple/Developer/algorithm/1460. 通过翻转子数组使两个数组相等.cpp"
+
+CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/1460. 通过翻转子数组使两个数组相等.cpp" > CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.i
+
+CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1460. 通过翻转子数组使两个数组相等.cpp" -o CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.s
+
+CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o: ../1051.\ 高度检查器.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_39) "Building CXX object CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o -c "/Users/apple/Developer/algorithm/1051. 高度检查器.cpp"
+
+CMakeFiles/algorithm.dir/1051._高度检查器.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/1051._高度检查器.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/1051. 高度检查器.cpp" > CMakeFiles/algorithm.dir/1051._高度检查器.cpp.i
+
+CMakeFiles/algorithm.dir/1051._高度检查器.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1051._高度检查器.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1051. 高度检查器.cpp" -o CMakeFiles/algorithm.dir/1051._高度检查器.cpp.s
+
 # Object files for target algorithm
 algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/main.cpp.o" \
@@ -582,7 +621,10 @@ algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o" \
 "CMakeFiles/algorithm.dir/1304._和为零的N个唯一整数.cpp.o" \
 "CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.o" \
-"CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.o"
+"CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.o" \
+"CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o" \
+"CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o" \
+"CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
@@ -623,9 +665,12 @@ algorithm: CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o
 algorithm: CMakeFiles/algorithm.dir/1304._和为零的N个唯一整数.cpp.o
 algorithm: CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.o
 algorithm: CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.o
+algorithm: CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o
+algorithm: CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o
+algorithm: CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Linking CXX executable algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_40) "Linking CXX executable algorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

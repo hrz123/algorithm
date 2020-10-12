@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/apple/Developer/algorithm/1. 两数之和 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1._两数之和_.cpp.o"
   "/Users/apple/Developer/algorithm/1021. 删除最外层的括号 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1021._删除最外层的括号_.cpp.o"
+  "/Users/apple/Developer/algorithm/1051. 高度检查器.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o"
   "/Users/apple/Developer/algorithm/113. 路径总和 II.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/113._路径总和_II.cpp.o"
   "/Users/apple/Developer/algorithm/1252. 奇数值单元格的数目 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1252._奇数值单元格的数目_.cpp.o"
   "/Users/apple/Developer/algorithm/1299. 将每个元素替换为右侧最大元素.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.o"
@@ -16,7 +17,9 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/apple/Developer/algorithm/141. 环形链表.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/141._环形链表.cpp.o"
   "/Users/apple/Developer/algorithm/142. 环形链表 II .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.o"
   "/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o"
+  "/Users/apple/Developer/algorithm/1460. 通过翻转子数组使两个数组相等.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o"
   "/Users/apple/Developer/algorithm/1464. 数组中两元素的最大乘积.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1464._数组中两元素的最大乘积.cpp.o"
+  "/Users/apple/Developer/algorithm/1502. 判断能否形成等差数列.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o"
   "/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o"
   "/Users/apple/Developer/algorithm/416. 分割等和子集 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.o"
   "/Users/apple/Developer/algorithm/461. 汉明距离 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/461._汉明距离_.cpp.o"

@@ -86,6 +86,9 @@
 		<Unit filename="/Users/apple/Developer/algorithm/1021. 删除最外层的括号 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1051. 高度检查器.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/113. 路径总和 II.cpp">
 			<Option target="algorithm"/>
 		</Unit>
@@ -116,7 +119,13 @@
 		<Unit filename="/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1460. 通过翻转子数组使两个数组相等.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/1464. 数组中两元素的最大乘积.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1502. 判断能否形成等差数列.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp">

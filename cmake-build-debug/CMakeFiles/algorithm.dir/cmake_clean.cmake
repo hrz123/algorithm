@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/algorithm.dir/1._两数之和_.cpp.o"
   "CMakeFiles/algorithm.dir/1021._删除最外层的括号_.cpp.o"
+  "CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o"
   "CMakeFiles/algorithm.dir/113._路径总和_II.cpp.o"
   "CMakeFiles/algorithm.dir/1252._奇数值单元格的数目_.cpp.o"
   "CMakeFiles/algorithm.dir/1299._将每个元素替换为右侧最大元素.cpp.o"
@@ -11,7 +12,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm.dir/141._环形链表.cpp.o"
   "CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.o"
   "CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o"
+  "CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o"
   "CMakeFiles/algorithm.dir/1464._数组中两元素的最大乘积.cpp.o"
+  "CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o"
   "CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o"
   "CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.o"
   "CMakeFiles/algorithm.dir/461._汉明距离_.cpp.o"
