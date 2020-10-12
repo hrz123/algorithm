@@ -521,6 +521,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.s
 .PHONY : 1528._重新排列字符串.cpp.s
 
+416._分割等和子集_.o: 416._分割等和子集_.cpp.o
+
+.PHONY : 416._分割等和子集_.o
+
+# target to build an object file
+416._分割等和子集_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.o
+.PHONY : 416._分割等和子集_.cpp.o
+
+416._分割等和子集_.i: 416._分割等和子集_.cpp.i
+
+.PHONY : 416._分割等和子集_.i
+
+# target to preprocess a source file
+416._分割等和子集_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.i
+.PHONY : 416._分割等和子集_.cpp.i
+
+416._分割等和子集_.s: 416._分割等和子集_.cpp.s
+
+.PHONY : 416._分割等和子集_.s
+
+# target to generate assembly for a file
+416._分割等和子集_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.s
+.PHONY : 416._分割等和子集_.cpp.s
+
 461._汉明距离_.o: 461._汉明距离_.cpp.o
 
 .PHONY : 461._汉明距离_.o
@@ -547,6 +574,33 @@ algorithm/fast:
 461._汉明距离_.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/461._汉明距离_.cpp.s
 .PHONY : 461._汉明距离_.cpp.s
+
+530._二叉搜索树的最小绝对差.o: 530._二叉搜索树的最小绝对差.cpp.o
+
+.PHONY : 530._二叉搜索树的最小绝对差.o
+
+# target to build an object file
+530._二叉搜索树的最小绝对差.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.o
+.PHONY : 530._二叉搜索树的最小绝对差.cpp.o
+
+530._二叉搜索树的最小绝对差.i: 530._二叉搜索树的最小绝对差.cpp.i
+
+.PHONY : 530._二叉搜索树的最小绝对差.i
+
+# target to preprocess a source file
+530._二叉搜索树的最小绝对差.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.i
+.PHONY : 530._二叉搜索树的最小绝对差.cpp.i
+
+530._二叉搜索树的最小绝对差.s: 530._二叉搜索树的最小绝对差.cpp.s
+
+.PHONY : 530._二叉搜索树的最小绝对差.s
+
+# target to generate assembly for a file
+530._二叉搜索树的最小绝对差.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.s
+.PHONY : 530._二叉搜索树的最小绝对差.cpp.s
 
 5526._最多可达成的换楼请求数目.o: 5526._最多可达成的换楼请求数目.cpp.o
 
@@ -1112,9 +1166,15 @@ help:
 	@echo "... 1528._重新排列字符串.o"
 	@echo "... 1528._重新排列字符串.i"
 	@echo "... 1528._重新排列字符串.s"
+	@echo "... 416._分割等和子集_.o"
+	@echo "... 416._分割等和子集_.i"
+	@echo "... 416._分割等和子集_.s"
 	@echo "... 461._汉明距离_.o"
 	@echo "... 461._汉明距离_.i"
 	@echo "... 461._汉明距离_.s"
+	@echo "... 530._二叉搜索树的最小绝对差.o"
+	@echo "... 530._二叉搜索树的最小绝对差.i"
+	@echo "... 530._二叉搜索树的最小绝对差.s"
 	@echo "... 5526._最多可达成的换楼请求数目.o"
 	@echo "... 5526._最多可达成的换楼请求数目.i"
 	@echo "... 5526._最多可达成的换楼请求数目.s"

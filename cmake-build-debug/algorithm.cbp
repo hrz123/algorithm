@@ -122,7 +122,13 @@
 		<Unit filename="/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/416. 分割等和子集 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/461. 汉明距离 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/530. 二叉搜索树的最小绝对差.cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/5526. 最多可达成的换楼请求数目.cpp">
