@@ -21,6 +21,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/apple/Developer/algorithm/1464. 数组中两元素的最大乘积.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1464._数组中两元素的最大乘积.cpp.o"
   "/Users/apple/Developer/algorithm/1502. 判断能否形成等差数列.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o"
   "/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o"
+  "/Users/apple/Developer/algorithm/24. 两两交换链表中的节点.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.o"
   "/Users/apple/Developer/algorithm/416. 分割等和子集 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.o"
   "/Users/apple/Developer/algorithm/461. 汉明距离 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/461._汉明距离_.cpp.o"
   "/Users/apple/Developer/algorithm/530. 二叉搜索树的最小绝对差.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.o"

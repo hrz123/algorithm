@@ -131,6 +131,9 @@
 		<Unit filename="/Users/apple/Developer/algorithm/1528. 重新排列字符串.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/24. 两两交换链表中的节点.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/416. 分割等和子集 .cpp">
 			<Option target="algorithm"/>
 		</Unit>

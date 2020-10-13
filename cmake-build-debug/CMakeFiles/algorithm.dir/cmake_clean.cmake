@@ -16,6 +16,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm.dir/1464._数组中两元素的最大乘积.cpp.o"
   "CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o"
   "CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o"
+  "CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.o"
   "CMakeFiles/algorithm.dir/416._分割等和子集_.cpp.o"
   "CMakeFiles/algorithm.dir/461._汉明距离_.cpp.o"
   "CMakeFiles/algorithm.dir/530._二叉搜索树的最小绝对差.cpp.o"
