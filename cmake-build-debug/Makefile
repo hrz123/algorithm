@@ -413,6 +413,60 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.s
 .PHONY : 1370._上升下降字符串.cpp.s
 
+1374._生成每种字符都是奇数个的字符串.o: 1374._生成每种字符都是奇数个的字符串.cpp.o
+
+.PHONY : 1374._生成每种字符都是奇数个的字符串.o
+
+# target to build an object file
+1374._生成每种字符都是奇数个的字符串.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.o
+.PHONY : 1374._生成每种字符都是奇数个的字符串.cpp.o
+
+1374._生成每种字符都是奇数个的字符串.i: 1374._生成每种字符都是奇数个的字符串.cpp.i
+
+.PHONY : 1374._生成每种字符都是奇数个的字符串.i
+
+# target to preprocess a source file
+1374._生成每种字符都是奇数个的字符串.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.i
+.PHONY : 1374._生成每种字符都是奇数个的字符串.cpp.i
+
+1374._生成每种字符都是奇数个的字符串.s: 1374._生成每种字符都是奇数个的字符串.cpp.s
+
+.PHONY : 1374._生成每种字符都是奇数个的字符串.s
+
+# target to generate assembly for a file
+1374._生成每种字符都是奇数个的字符串.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.s
+.PHONY : 1374._生成每种字符都是奇数个的字符串.cpp.s
+
+1380._矩阵中的幸运数.o: 1380._矩阵中的幸运数.cpp.o
+
+.PHONY : 1380._矩阵中的幸运数.o
+
+# target to build an object file
+1380._矩阵中的幸运数.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.o
+.PHONY : 1380._矩阵中的幸运数.cpp.o
+
+1380._矩阵中的幸运数.i: 1380._矩阵中的幸运数.cpp.i
+
+.PHONY : 1380._矩阵中的幸运数.i
+
+# target to preprocess a source file
+1380._矩阵中的幸运数.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.i
+.PHONY : 1380._矩阵中的幸运数.cpp.i
+
+1380._矩阵中的幸运数.s: 1380._矩阵中的幸运数.cpp.s
+
+.PHONY : 1380._矩阵中的幸运数.s
+
+# target to generate assembly for a file
+1380._矩阵中的幸运数.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.s
+.PHONY : 1380._矩阵中的幸运数.cpp.s
+
 141._环形链表.o: 141._环形链表.cpp.o
 
 .PHONY : 141._环形链表.o
@@ -1169,6 +1223,33 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.s
 .PHONY : 剑指_Offer_24._反转链表.cpp.s
 
+剑指_Offer_54._二叉搜索树的第k大节点_.o: 剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o
+
+.PHONY : 剑指_Offer_54._二叉搜索树的第k大节点_.o
+
+# target to build an object file
+剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o
+.PHONY : 剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o
+
+剑指_Offer_54._二叉搜索树的第k大节点_.i: 剑指_Offer_54._二叉搜索树的第k大节点_.cpp.i
+
+.PHONY : 剑指_Offer_54._二叉搜索树的第k大节点_.i
+
+# target to preprocess a source file
+剑指_Offer_54._二叉搜索树的第k大节点_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.i
+.PHONY : 剑指_Offer_54._二叉搜索树的第k大节点_.cpp.i
+
+剑指_Offer_54._二叉搜索树的第k大节点_.s: 剑指_Offer_54._二叉搜索树的第k大节点_.cpp.s
+
+.PHONY : 剑指_Offer_54._二叉搜索树的第k大节点_.s
+
+# target to generate assembly for a file
+剑指_Offer_54._二叉搜索树的第k大节点_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.s
+.PHONY : 剑指_Offer_54._二叉搜索树的第k大节点_.cpp.s
+
 剑指_Offer_58_-_II._左旋转字符串.o: 剑指_Offer_58_-_II._左旋转字符串.cpp.o
 
 .PHONY : 剑指_Offer_58_-_II._左旋转字符串.o
@@ -1262,6 +1343,12 @@ help:
 	@echo "... 1370._上升下降字符串.o"
 	@echo "... 1370._上升下降字符串.i"
 	@echo "... 1370._上升下降字符串.s"
+	@echo "... 1374._生成每种字符都是奇数个的字符串.o"
+	@echo "... 1374._生成每种字符都是奇数个的字符串.i"
+	@echo "... 1374._生成每种字符都是奇数个的字符串.s"
+	@echo "... 1380._矩阵中的幸运数.o"
+	@echo "... 1380._矩阵中的幸运数.i"
+	@echo "... 1380._矩阵中的幸运数.s"
 	@echo "... 141._环形链表.o"
 	@echo "... 141._环形链表.i"
 	@echo "... 141._环形链表.s"
@@ -1346,6 +1433,9 @@ help:
 	@echo "... 剑指_Offer_24._反转链表.o"
 	@echo "... 剑指_Offer_24._反转链表.i"
 	@echo "... 剑指_Offer_24._反转链表.s"
+	@echo "... 剑指_Offer_54._二叉搜索树的第k大节点_.o"
+	@echo "... 剑指_Offer_54._二叉搜索树的第k大节点_.i"
+	@echo "... 剑指_Offer_54._二叉搜索树的第k大节点_.s"
 	@echo "... 剑指_Offer_58_-_II._左旋转字符串.o"
 	@echo "... 剑指_Offer_58_-_II._左旋转字符串.i"
 	@echo "... 剑指_Offer_58_-_II._左旋转字符串.s"

@@ -14,6 +14,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/apple/Developer/algorithm/1309. 解码字母到整数映射 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1309._解码字母到整数映射_.cpp.o"
   "/Users/apple/Developer/algorithm/1323. 6 和 9 组成的最大数字.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1323._6_和_9_组成的最大数字.cpp.o"
   "/Users/apple/Developer/algorithm/1370. 上升下降字符串.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1370._上升下降字符串.cpp.o"
+  "/Users/apple/Developer/algorithm/1374. 生成每种字符都是奇数个的字符串.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.o"
+  "/Users/apple/Developer/algorithm/1380. 矩阵中的幸运数.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.o"
   "/Users/apple/Developer/algorithm/141. 环形链表.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/141._环形链表.cpp.o"
   "/Users/apple/Developer/algorithm/142. 环形链表 II .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/142._环形链表_II_.cpp.o"
   "/Users/apple/Developer/algorithm/1436. 旅行终点站 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/1436._旅行终点站_.cpp.o"
@@ -42,6 +44,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/apple/Developer/algorithm/main.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/main.cpp.o"
   "/Users/apple/Developer/algorithm/剑指 Offer 05. 替换空格 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/剑指_Offer_05._替换空格_.cpp.o"
   "/Users/apple/Developer/algorithm/剑指 Offer 24. 反转链表.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/剑指_Offer_24._反转链表.cpp.o"
+  "/Users/apple/Developer/algorithm/剑指 Offer 54. 二叉搜索树的第k大节点 .cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o"
   "/Users/apple/Developer/algorithm/剑指 Offer 58 - II. 左旋转字符串.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/剑指_Offer_58_-_II._左旋转字符串.cpp.o"
   "/Users/apple/Developer/algorithm/山谷序列.cpp" "/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/山谷序列.cpp.o"
   )

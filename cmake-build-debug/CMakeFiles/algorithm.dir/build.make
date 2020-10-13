@@ -597,6 +597,45 @@ CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/24. 两两交换链表中的节点.cpp" -o CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.s
 
+CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o: ../剑指\ Offer\ 54.\ 二叉搜索树的第k大节点\ .cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Building CXX object CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o -c "/Users/apple/Developer/algorithm/剑指 Offer 54. 二叉搜索树的第k大节点 .cpp"
+
+CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/剑指 Offer 54. 二叉搜索树的第k大节点 .cpp" > CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.i
+
+CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/剑指 Offer 54. 二叉搜索树的第k大节点 .cpp" -o CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.s
+
+CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.o: ../1374.\ 生成每种字符都是奇数个的字符串.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) "Building CXX object CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.o -c "/Users/apple/Developer/algorithm/1374. 生成每种字符都是奇数个的字符串.cpp"
+
+CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/1374. 生成每种字符都是奇数个的字符串.cpp" > CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.i
+
+CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1374. 生成每种字符都是奇数个的字符串.cpp" -o CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.s
+
+CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.o: ../1380.\ 矩阵中的幸运数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.o -c "/Users/apple/Developer/algorithm/1380. 矩阵中的幸运数.cpp"
+
+CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/apple/Developer/algorithm/1380. 矩阵中的幸运数.cpp" > CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.i
+
+CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/apple/Developer/algorithm/1380. 矩阵中的幸运数.cpp" -o CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.s
+
 # Object files for target algorithm
 algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/main.cpp.o" \
@@ -638,7 +677,10 @@ algorithm_OBJECTS = \
 "CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o" \
 "CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o" \
 "CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o" \
-"CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.o"
+"CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.o" \
+"CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o" \
+"CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.o" \
+"CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
@@ -683,9 +725,12 @@ algorithm: CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o
 algorithm: CMakeFiles/algorithm.dir/1460._通过翻转子数组使两个数组相等.cpp.o
 algorithm: CMakeFiles/algorithm.dir/1051._高度检查器.cpp.o
 algorithm: CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.o
+algorithm: CMakeFiles/algorithm.dir/剑指_Offer_54._二叉搜索树的第k大节点_.cpp.o
+algorithm: CMakeFiles/algorithm.dir/1374._生成每种字符都是奇数个的字符串.cpp.o
+algorithm: CMakeFiles/algorithm.dir/1380._矩阵中的幸运数.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_41) "Linking CXX executable algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/apple/Developer/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Linking CXX executable algorithm"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/algorithm.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

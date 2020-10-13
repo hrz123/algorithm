@@ -110,6 +110,12 @@
 		<Unit filename="/Users/apple/Developer/algorithm/1370. 上升下降字符串.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1374. 生成每种字符都是奇数个的字符串.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/1380. 矩阵中的幸运数.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/141. 环形链表.cpp">
 			<Option target="algorithm"/>
 		</Unit>
@@ -192,6 +198,9 @@
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/剑指 Offer 24. 反转链表.cpp">
+			<Option target="algorithm"/>
+		</Unit>
+		<Unit filename="/Users/apple/Developer/algorithm/剑指 Offer 54. 二叉搜索树的第k大节点 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
 		<Unit filename="/Users/apple/Developer/algorithm/剑指 Offer 58 - II. 左旋转字符串.cpp">
