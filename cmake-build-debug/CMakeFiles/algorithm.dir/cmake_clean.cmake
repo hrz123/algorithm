@@ -18,6 +18,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm.dir/1464._数组中两元素的最大乘积.cpp.o"
   "CMakeFiles/algorithm.dir/1502._判断能否形成等差数列.cpp.o"
   "CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.o"
+  "CMakeFiles/algorithm.dir/1631.最小体力消耗路径.cpp.o"
   "CMakeFiles/algorithm.dir/217._存在重复元素_.cpp.o"
   "CMakeFiles/algorithm.dir/219._存在重复元素_II_.cpp.o"
   "CMakeFiles/algorithm.dir/24._两两交换链表中的节点.cpp.o"

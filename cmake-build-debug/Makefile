@@ -656,6 +656,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1528._重新排列字符串.cpp.s
 .PHONY : 1528._重新排列字符串.cpp.s
 
+1631.最小体力消耗路径.o: 1631.最小体力消耗路径.cpp.o
+
+.PHONY : 1631.最小体力消耗路径.o
+
+# target to build an object file
+1631.最小体力消耗路径.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1631.最小体力消耗路径.cpp.o
+.PHONY : 1631.最小体力消耗路径.cpp.o
+
+1631.最小体力消耗路径.i: 1631.最小体力消耗路径.cpp.i
+
+.PHONY : 1631.最小体力消耗路径.i
+
+# target to preprocess a source file
+1631.最小体力消耗路径.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1631.最小体力消耗路径.cpp.i
+.PHONY : 1631.最小体力消耗路径.cpp.i
+
+1631.最小体力消耗路径.s: 1631.最小体力消耗路径.cpp.s
+
+.PHONY : 1631.最小体力消耗路径.s
+
+# target to generate assembly for a file
+1631.最小体力消耗路径.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/1631.最小体力消耗路径.cpp.s
+.PHONY : 1631.最小体力消耗路径.cpp.s
+
 217._存在重复元素_.o: 217._存在重复元素_.cpp.o
 
 .PHONY : 217._存在重复元素_.o
@@ -1478,6 +1505,9 @@ help:
 	@echo "... 1528._重新排列字符串.o"
 	@echo "... 1528._重新排列字符串.i"
 	@echo "... 1528._重新排列字符串.s"
+	@echo "... 1631.最小体力消耗路径.o"
+	@echo "... 1631.最小体力消耗路径.i"
+	@echo "... 1631.最小体力消耗路径.s"
 	@echo "... 217._存在重复元素_.o"
 	@echo "... 217._存在重复元素_.i"
 	@echo "... 217._存在重复元素_.s"

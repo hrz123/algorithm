@@ -137,6 +137,9 @@
 		<Unit filename="/Users/houruizhe/CLionProjects/algorithm/1528. 重新排列字符串.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/houruizhe/CLionProjects/algorithm/1631.最小体力消耗路径.cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/houruizhe/CLionProjects/algorithm/217. 存在重复元素 .cpp">
 			<Option target="algorithm"/>
 		</Unit>
