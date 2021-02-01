@@ -194,6 +194,9 @@
 		<Unit filename="/Users/houruizhe/CLionProjects/algorithm/851. 喧闹和富有.cpp">
 			<Option target="algorithm"/>
 		</Unit>
+		<Unit filename="/Users/houruizhe/CLionProjects/algorithm/888. 公平的糖果棒交换 .cpp">
+			<Option target="algorithm"/>
+		</Unit>
 		<Unit filename="/Users/houruizhe/CLionProjects/algorithm/938. 二叉搜索树的范围和 .cpp">
 			<Option target="algorithm"/>
 		</Unit>

@@ -37,6 +37,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o"
   "CMakeFiles/algorithm.dir/844._比较含退格的字符串_.cpp.o"
   "CMakeFiles/algorithm.dir/851._喧闹和富有.cpp.o"
+  "CMakeFiles/algorithm.dir/888._公平的糖果棒交换_.cpp.o"
   "CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.o"
   "CMakeFiles/algorithm.dir/Solution.cpp.o"
   "CMakeFiles/algorithm.dir/UVa221.cpp.o"

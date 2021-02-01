@@ -1169,6 +1169,33 @@ algorithm/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/851._喧闹和富有.cpp.s
 .PHONY : 851._喧闹和富有.cpp.s
 
+888._公平的糖果棒交换_.o: 888._公平的糖果棒交换_.cpp.o
+
+.PHONY : 888._公平的糖果棒交换_.o
+
+# target to build an object file
+888._公平的糖果棒交换_.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/888._公平的糖果棒交换_.cpp.o
+.PHONY : 888._公平的糖果棒交换_.cpp.o
+
+888._公平的糖果棒交换_.i: 888._公平的糖果棒交换_.cpp.i
+
+.PHONY : 888._公平的糖果棒交换_.i
+
+# target to preprocess a source file
+888._公平的糖果棒交换_.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/888._公平的糖果棒交换_.cpp.i
+.PHONY : 888._公平的糖果棒交换_.cpp.i
+
+888._公平的糖果棒交换_.s: 888._公平的糖果棒交换_.cpp.s
+
+.PHONY : 888._公平的糖果棒交换_.s
+
+# target to generate assembly for a file
+888._公平的糖果棒交换_.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/algorithm.dir/build.make CMakeFiles/algorithm.dir/888._公平的糖果棒交换_.cpp.s
+.PHONY : 888._公平的糖果棒交换_.cpp.s
+
 938._二叉搜索树的范围和_.o: 938._二叉搜索树的范围和_.cpp.o
 
 .PHONY : 938._二叉搜索树的范围和_.o
@@ -1562,6 +1589,9 @@ help:
 	@echo "... 851._喧闹和富有.o"
 	@echo "... 851._喧闹和富有.i"
 	@echo "... 851._喧闹和富有.s"
+	@echo "... 888._公平的糖果棒交换_.o"
+	@echo "... 888._公平的糖果棒交换_.i"
+	@echo "... 888._公平的糖果棒交换_.s"
 	@echo "... 938._二叉搜索树的范围和_.o"
 	@echo "... 938._二叉搜索树的范围和_.i"
 	@echo "... 938._二叉搜索树的范围和_.s"

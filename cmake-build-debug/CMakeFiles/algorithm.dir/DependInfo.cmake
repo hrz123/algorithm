@@ -42,6 +42,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/houruizhe/CLionProjects/algorithm/834. 树中距离之和.cpp" "/Users/houruizhe/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/834._树中距离之和.cpp.o"
   "/Users/houruizhe/CLionProjects/algorithm/844. 比较含退格的字符串 .cpp" "/Users/houruizhe/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/844._比较含退格的字符串_.cpp.o"
   "/Users/houruizhe/CLionProjects/algorithm/851. 喧闹和富有.cpp" "/Users/houruizhe/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/851._喧闹和富有.cpp.o"
+  "/Users/houruizhe/CLionProjects/algorithm/888. 公平的糖果棒交换 .cpp" "/Users/houruizhe/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/888._公平的糖果棒交换_.cpp.o"
   "/Users/houruizhe/CLionProjects/algorithm/938. 二叉搜索树的范围和 .cpp" "/Users/houruizhe/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/938._二叉搜索树的范围和_.cpp.o"
   "/Users/houruizhe/CLionProjects/algorithm/Solution.cpp" "/Users/houruizhe/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/Solution.cpp.o"
   "/Users/houruizhe/CLionProjects/algorithm/UVa221.cpp" "/Users/houruizhe/CLionProjects/algorithm/cmake-build-debug/CMakeFiles/algorithm.dir/UVa221.cpp.o"
