@@ -57,7 +57,7 @@ public:
     int comp_cnt;
 
 public:
-    UF(int _n) : n(_n), comp_cnt(_n), fa(_n), sz(_n, 1) {
+    explicit UF(int _n) : n(_n), comp_cnt(_n), fa(_n), sz(_n, 1) {
         iota(fa.begin(), fa.end(), 0);
     }
 
